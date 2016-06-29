@@ -9,4 +9,5 @@ We will combine turnstile data with the locations of technology companies and hi
 
 https://loldja.cartodb.com/viz/68f68782-3d3f-11e6-8cb0-0e674067d321/public_map
 
-##Draft slides content: https://docs.google.com/presentation/d/1Z8TOJNSV9xkzuCQV7ecN8G_LLzMlQsOkanad-ycTA8Q/edit?usp=sharing
+##Draft slides content: 
+https://docs.google.com/presentation/d/1Z8TOJNSV9xkzuCQV7ecN8G_LLzMlQsOkanad-ycTA8Q/edit?usp=sharing
