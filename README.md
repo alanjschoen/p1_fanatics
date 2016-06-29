@@ -9,13 +9,5 @@ We will combine turnstile data with the locations of technology companies and hi
 
 https://loldja.cartodb.com/viz/68f68782-3d3f-11e6-8cb0-0e674067d321/public_map
 
-##Draft slides content:
-
-###Slide 1 
-Problem Statement - "tell them what you're going to tell them"
-###Slide 2
-Methods
-###Slide 3
-Findings
-###Slide 4
-Conclusions and Next Steps
+##Draft slides content: 
+https://docs.google.com/presentation/d/1Z8TOJNSV9xkzuCQV7ecN8G_LLzMlQsOkanad-ycTA8Q/edit?usp=sharing
